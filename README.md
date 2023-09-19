@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AIpp](https://github.com/TailUFPB/AIpp)
 
-- 🌱 I’m currently learning **FastAPI and SQLAlchemy**
+- 🌱 I’m currently learning **Airbyte and PostgreSQL**
 
 - 🧊 I also love everything Minecraft!
 
