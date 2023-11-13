@@ -1,7 +1,7 @@
 <img align="center" alt="My favourite character!" width="1200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdiYjk5ZjZlODI3ZDliMTFmNGU5YzEwNmViYWE0ZDI2MzQ0MWJiNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/42y2iz4jTKtk2jymfF/giphy.gif">
 
 <h1 align="center">Hey 👋, I'm Ícaro!</h1>
-<h3 align="center">A fullstack developer with a passion for code efficiency and low level programming</h3>
+<h3 align="center">A fullstack developer with a passion for code efficiency and multiprocessing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icaror&label=Profile%20views&color=0e75b6&style=flat" alt="icaror" /> </p>
 
@@ -27,6 +27,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 
