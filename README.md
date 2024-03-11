@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icaror&label=Profile%20views&color=0e75b6&style=flat" alt="icaror" /> </p>
 
-- 🔭 I’m currently working on [AIpp](https://github.com/TailUFPB/AIpp)
+- 🔭 I’m currently working on [WaveFlow](https://github.com/TailUFPB/Waveflow)
 
-- 🌱 I’m currently learning **Airbyte and PostgreSQL**
+- 🌱 I’m currently learning **PySpark and Polars**
 
-- 🧊 I also love everything Minecraft!
+- 🧊 I also love everything about Minecraft!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
