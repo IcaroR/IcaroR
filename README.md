@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WaveFlow](https://github.com/TailUFPB/Waveflow)
 
-- 🌱 I’m currently learning **PySpark and Polars**
+- 🌱 I’m currently learning **Next.js**
 
 - 🧊 I also love everything about Minecraft!
 
