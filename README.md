@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WaveFlow](https://github.com/TailUFPB/Waveflow)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Grafana, Prometheus and Jaeger**
 
 - 🧊 I also love everything about Minecraft!
 
