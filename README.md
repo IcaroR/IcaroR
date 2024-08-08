@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icaror&label=Profile%20views&color=0e75b6&style=flat" alt="icaror" /> </p>
 
-- 🔭 I’m currently working on [WaveFlow](https://github.com/TailUFPB/Waveflow)
+- 🔭 I’m currently working on [Class Summarizer](https://github.com/felipeduartea/class_sumarizer)
 
-- 🌱 I’m currently learning **Grafana, Prometheus and Jaeger**
+- 🌱 I’m currently learning **C++**
 
 - 🧊 I also love everything about Minecraft!
 
