@@ -1,13 +1,13 @@
 <img align="center" alt="My favourite character!" width="1200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdiYjk5ZjZlODI3ZDliMTFmNGU5YzEwNmViYWE0ZDI2MzQ0MWJiNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/42y2iz4jTKtk2jymfF/giphy.gif">
 
 <h1 align="center">Hey 👋, I'm Ícaro!</h1>
-<h3 align="center">A fullstack developer with a passion for code efficiency and multiprocessing</h3>
+<h3 align="center">A data scientist with a passion for code efficiency and multiprocessing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icaror&label=Profile%20views&color=0e75b6&style=flat" alt="icaror" /> </p>
 
-- 🔭 I’m currently working on [Class Summarizer](https://github.com/felipeduartea/class_sumarizer)
+- 🔭 I’m currently working on **No personal projects 😭**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 🧊 I also love everything about Minecraft!
 
