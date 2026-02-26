@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icaror&label=Profile%20views&color=0e75b6&style=flat" alt="icaror" /> </p>
 
-- 🔭 I’m currently working on **No personal projects 😭**
+- 🔭 I’m currently working on **a personal website! (More news to come)**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Javascript**
 
 - 🧊 I also love everything about Minecraft!
 
