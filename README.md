@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icaror&label=Profile%20views&color=0e75b6&style=flat" alt="icaror" /> </p>
 
-- 🔭 I’m currently working on **a personal website! Avaliable at ponga.neocities.org**
+- 🔭 I’m currently working on **a personal website! Available at [ponga.neocities.org](https://ponga.neocities.org)**
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -39,4 +39,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaror&theme=dracula&PAT_1" />
 </a>
 </p>
-
